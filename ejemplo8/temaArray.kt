@@ -36,3 +36,20 @@ Boolean       BooleanArray
     )
 
  }
+
+
+ 
+
+
+/* 
+
+Suma de dos matrices Programa que permita al usuario ingresar por teclado 
+valores de dos matrices de 3x3 y posteriormente realizar la suma de ambas 
+matrices mostrando el resultado en la pantalla
+
+Se crean tres matrices 
+- matriz1 para almacenar primera matriz
+- matriz2 para almacenar segunda matriz
+- reultado para guardar la suma
+
+--*/
